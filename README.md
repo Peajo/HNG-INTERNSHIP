@@ -1,3 +1,5 @@
 # HNG-INTERNSHIP
-My first repository
-I am a tech driven enthusiast who is passionate about cloud computing, networking and devops with strong track record in giving customers amazing experience.
+
+FLUTTERWAVE BLOG POST https://ajosejeremiah.blogspot.com/2019/08/coding-in-my-twenties.html
+
+LUCID BLOG https://lucid.blog/jeremaihajose/post/1566609101
